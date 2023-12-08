@@ -10,6 +10,11 @@ class Day1 {
 
 public:
     static void run();
+
+private:
+    static void parseFile();
+
+    static void parseAnotherFile();
 };
 
 
