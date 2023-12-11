@@ -8,4 +8,8 @@ add_executable(aoc2023 main.cpp
         Day1/Day1.h
         Day2/Day2.cpp
         Day2/Day2.h
+        Day3/Day3.cpp
+        Day3/Day3.h
+        Day4/Day4.cpp
+        Day4/Day4.h
 )

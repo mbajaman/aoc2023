@@ -4,11 +4,7 @@
 
 #include "Day2.h"
 #include <fstream>
-#include <iostream>
-#include <vector>
 #include <map>
-
-using namespace std;
 
 struct Set;
 
@@ -146,5 +142,13 @@ void Day2::parseFile() {
     }
     cout << "Part 2 answer: " << answer2 << endl; // DONE
 
+
+}
+
+vector<string> Day2::stringToArrayString(string str, char delimiter) {
+    return vector<string>();
+}
+
+void Day2::runOperation() {
 
 }
